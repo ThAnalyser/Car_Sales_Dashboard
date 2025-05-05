@@ -1,4 +1,5 @@
 🚗 Car Sales Dashboard - Power BI Project
+
 📊 Project Overview
 This Power BI dashboard project focuses on analyzing car sales data to uncover valuable insights and trends. The report helps stakeholders and decision-makers understand which car brands are performing best, what factors influence sales, and how performance varies across time, locations, and customer demographics.
 
